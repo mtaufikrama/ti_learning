@@ -1,0 +1,10 @@
+enum KategoriPickFile {
+  IMAGE,
+  IMAGES,
+  VIDEO,
+  VIDEOS,
+  IMAGE_AND_VIDEO,
+  IMAGES_AND_VIDEOS,
+  FILE,
+  FILES,
+}
